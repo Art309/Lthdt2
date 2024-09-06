@@ -18,3 +18,4 @@
     - **Add Task**: Thêm bài tập
   - **Notifications**: Nhắc nhở
     - **Settings**: Cài đặt nhắc nhở
+![image](https://github.com/user-attachments/assets/6f03bb99-502e-4b3b-9aa5-47e0dcb2f615)
